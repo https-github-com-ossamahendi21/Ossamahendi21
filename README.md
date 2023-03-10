@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm oussama" title="👋 Hi there! I'm oussama"/>  
+<img src="https://raw.githubusercontent.com/Ossamahendi21/Ossamahendi21/main/intro.gif" alt="👋 Hi there! I'm oussama" title="👋 Hi there! I'm oussama"/>  
 
   <h3 align="center">Software Engineer Student at ALX SE Programme</h3>
   
