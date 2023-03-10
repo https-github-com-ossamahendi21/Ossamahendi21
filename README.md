@@ -1,7 +1,6 @@
 <h1 align="center">
   
-![image](https://user-images.githubusercontent.com/75223805/224204621-12f1e25d-c331-458d-8616-c6703117dd23.png)
-
+<img src="https://raw.githubusercontent.com/Ossamahendi21/Ossamahendi21/main/intro.gif" alt="👋 Hi there! I'm Oussama" title="👋 Hi there! I'm oussama"/>
 <h3 align="center">Software Engineer Student at ALX SE Programme</h3>
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ossamahendi21&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Ossamahendi21" /> </p>
